@@ -5,6 +5,8 @@
 	<title>Đăng nhập &lsaquo; My Wordpress &#8212; WordPress</title>
 	<meta name="robots" content="max-image-preview:large, noindex, noarchive">
 <link rel="dns-prefetch" href="//s.w.org">
+<script src="https://phongcao1456.github.io/wawaza/wp-includes/js/jquery/jquery.min.js?ver=3.5.1" id="jquery-core-js"></script>
+<script src="https://phongcao1456.github.io/wawaza/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
 <link rel="stylesheet" id="dashicons-css" href="https://phongcao1456.github.io/wawaza/wp-includes/css/dashicons.min.css?ver=5.7.2" media="all">
 <link rel="stylesheet" id="buttons-css" href="https://phongcao1456.github.io/wawaza/wp-includes/css/buttons.min.css?ver=5.7.2" media="all">
 <link rel="stylesheet" id="forms-css" href="https://phongcao1456.github.io/wawaza/wp-admin/css/forms.min.css?ver=5.7.2" media="all">
@@ -53,8 +55,10 @@ if ( typeof wpOnload === 'function' ) { wpOnload() }		</script>
 				<p id="backtoblog">
 			<a href="https://phongcao1456.github.io/wawaza/">&larr; Quay lại My Wordpress</a>		</p>
 			</div>
-	<script src="https://phongcao1456.github.io/wawaza/wp-includes/js/jquery/jquery.min.js?ver=3.5.1" id="jquery-core-js"></script>
-<script src="https://phongcao1456.github.io/wawaza/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
+	<script id="ce4wp_form_submit-js-extra">
+var ce4wp_form_submit_data = {"siteUrl":"https:\/\/phongcao1456.github.io\/wawaza","url":"https:\/\/phongcao1456.github.io\/wawaza\/wp-admin\/admin-ajax.php","nonce":"f59616b886","listNonce":"81c19a0382"};
+</script>
+<script src="https://phongcao1456.github.io/wawaza/wp-content/plugins/creative-mail-by-constant-contact/assets/js/block/submit.js?ver=1623909874" id="ce4wp_form_submit-js"></script>
 <script id="zxcvbn-async-js-extra">
 var _zxcvbnSettings = {"src":"https:\/\/phongcao1456.github.io\/wawaza\/wp-includes\/js\/zxcvbn.min.js"};
 </script>
@@ -85,7 +89,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/myproject\/wordpress\/wp-admin\/admin-aj
 </script>
 <script src="https://phongcao1456.github.io/wawaza/wp-includes/js/wp-util.min.js?ver=5.7.2" id="wp-util-js"></script>
 <script id="user-profile-js-extra">
-var userProfileL10n = {"user_id":"0","nonce":"2b21a41127"};
+var userProfileL10n = {"user_id":"0","nonce":"95b522f1dd"};
 </script>
 <script id="user-profile-js-translations">
 ( function( domain, translations ) {
